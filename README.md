@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Portfolio
-- SQL  
+SQL  
 Project Name |  | Description
 --- | --- | ---
 [Finals-BankAccount] (https://github.com/zahraprivias/Finals-BankAccount) |  | Demonstrates ability in using SELECT, FROM, WHERE, JOIN, GROUP BY, and COUNT.
