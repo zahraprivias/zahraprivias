@@ -11,4 +11,9 @@ You can click the Preview link to take a look at your changes.
 SQL  
 Project Name | Description
 --- | ---
-[Finals-BankAccount](https://github.com/zahraprivias/Finals-BankAccount) | Demonstrates ability in using SELECT, FROM, WHERE, JOIN, GROUP BY, and COUNT.
+[Finals-BankAccount](https://github.com/zahraprivias/Finals-BankAccount) | Demonstrates ability in using SELECT, FROM, WHERE, JOIN, GROUP BY, and COUNT.  
+
+HTML  
+Project Name  | Description  
+--- | ---  
+[FE-LnT-Weebsite](https://github.com/zahraprivias/FE-LnT-Website) | Making a portfolio website using HTML, CSS, and jQuery with the help of frameworks such as Bootstrap.
