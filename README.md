@@ -16,4 +16,4 @@ Project Name | Description
 HTML  
 Project Name  | Description  
 --- | ---  
-[FE-LnT-Weebsite](https://github.com/zahraprivias/FE-LnT-Website) | Making a portfolio website using HTML, CSS, and jQuery with the help of frameworks such as Bootstrap.
+[FE-LnT-Website](https://github.com/zahraprivias/FE-LnT-Website) | Making a portfolio website using HTML, CSS, and jQuery with the help of frameworks such as Bootstrap.
