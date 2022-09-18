@@ -13,6 +13,7 @@ Project Name | Description
 --- | ---
 [Finals-BankAccount](https://github.com/zahraprivias/Finals-BankAccount) | Demonstrates ability in using SELECT, FROM, WHERE, JOIN, GROUP BY, and COUNT.  
 [Flower-Delivery](https://github.com/zahraprivias/Flower-Delivery) | Demonstrates ability in DDL and DML such as CREATE TABLE, ALTER TABLE, INSERT, UPDATE, SELECT, and CREATE VIEW.  
+[VIX-Data-Engineer](https://github.com/zahraprivias/VIX-Data-Engineer) | Identifying business objective, exploring data using SQL, visualizing data, and finding solution  
 
 HTML  
 Project Name  | Description  
