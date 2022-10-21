@@ -8,6 +8,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Portfolio
+Java  
+Project Name | Description
+--- | ---
+[Guitar-Shop](https://github.com/zahraprivias/Guitar-Shop) | Simple guitar shop Java program. Demonstrates ability in using Object Oriented Programming (Encapsulation and Polymorphism).  
+
 SQL  
 Project Name | Description
 --- | ---
