@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 Java  
 Project Name | Description
 --- | ---
+[Barber-Shop](https://github.com/zahraprivias/Barber-Shop) | Simple Java GUI Point of Sales Application for Barber Shop. Demonstrates ability in using Java Swing and AWT, and connecting to MySQL using XAMPP.
 [Guitar-Shop](https://github.com/zahraprivias/Guitar-Shop) | Simple guitar shop Java program. Demonstrates ability in using Object Oriented Programming (Encapsulation and Polymorphism).  
 
 SQL  
