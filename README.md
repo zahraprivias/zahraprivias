@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @zahraprivias
-- 🌱 I’m currently majoring in Information Systems
-- 📫 zahraprivias@gmail.com
+- 👋 Hi, I’m Zahra Privia
+- 🌱 [LinkedIn](https://www.linkedin.com/in/zahra-privia-7b3342221/}
+- 📫 [Gmail]([zahraprivias@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=zahraprivias@gmail.com&su=SUBJECT&body=BODY)
 
-<!---
-zahraprivias/zahraprivias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## Portfolio
+## Projects
 Java  
 Project Name | Description
 --- | ---
