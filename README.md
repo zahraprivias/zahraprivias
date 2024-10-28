@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zahra Privia
-- 🌱 [LinkedIn](https://www.linkedin.com/in/zahra-privia-7b3342221/}
-- 📫 [Gmail]([zahraprivias@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=zahraprivias@gmail.com&su=SUBJECT&body=BODY)
+- 🌱 [LinkedIn](https://www.linkedin.com/in/zahra-privia-7b3342221/)
+- 📫 [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zahraprivias@gmail.com&su=SUBJECT&body=BODY)
 
 ## Projects
 Java  
