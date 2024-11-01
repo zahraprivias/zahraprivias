@@ -2,7 +2,12 @@
 - 🌱 [LinkedIn](https://www.linkedin.com/in/zahra-privia-7b3342221/)
 - 📫 [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zahraprivias@gmail.com&su=SUBJECT&body=BODY)
 
-## Projects
+## Personal Projects
+Project Name | Description
+--- | ---
+[Pokemon HM DB](https://github.com/zahraprivias/Pokemon_HM_Learn_DB) | Simple Bash program to find which HMs a Pokemon (Black/White) can learn. Created using Bash and PostgreSQL, data scraping with BeautifulSoup Python library.
+
+## Learning Projects
 Java  
 Project Name | Description
 --- | ---
